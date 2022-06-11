@@ -1,0 +1,71 @@
+* ::before, ::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7;
+    font-style: normal;
+  }  
+  .section_design_and_layout {
+Width: 1920px;
+Height: 700px;
+background-color: #EEEFF1;
+  }
+  .HOME {
+    position: absolute; color: #34547A; Width: 84px; Height: 16px; Top: 79px; Left: 399px;
+      }
+      .ABOUT_THE_AUTHOR {
+        position: absolute; color: #000000; Width: 100px; Height: 16px; Top: 79px; Left: 525px;
+      }
+      .WORKS {
+        position: absolute; color: #000000; Width: 74px; Height: 16px; Top: 79px; Left: 667px;
+      }
+      .PROCESS {
+        position: absolute; color: #000000; Width: 86px; Height: 16px; Top: 79px; Left: 783px;
+      }
+      .CONTACTS {
+        position: absolute; color: #000000; Width: 99px; Height: 16px; Top: 79px; Left: 911px;
+      }
+      h1 {
+        position: absolute; color: #000000; Width: 541px; Height: 45px; Top: 257px; Left: 399px; font-size: 48px; line-height: 78px;
+      }
+      .p_d_l
+      {
+        position: absolute; color: #727272; Width: 540px; Height: 67px; Top: 362px; Left: 400px; font-weight: 400; font-size: 16px; line-height: 26px;
+      }
+button {
+    color:#FFFFFF; background-color:#34547A; border: #34547A;
+  position: absolute; width: 225px;height: 65px;left: 399px;top: 494px;
+ }
+.about_me {
+    position: absolute; color: #000000; Width: 403px; Height: 30px; Top: 812px; Left: 758px; font-weight: 500; font-size: 32px; line-height: 38px; text-align: center; font-style: normal;
+}
+.p_a_m {
+    position: absolute; color: #727272; Width: 510px; Height: 67px; Top: 892px; Left: 690px; font-weight: 400; font-size: 16px; line-height: 26px; text-align: center; font-style: normal;
+}
+img {
+    position: absolute; top: 1059px;
+}
+.how_do_i_work {
+    position: absolute; color: #000000; Width: 403px; Height: 30px; Top: 1409px; Left: 758px; font-weight: 500; font-size: 32px; line-height: 38px; text-align: center; font-style: normal;
+}
+.p_w {
+    position: absolute; color: #727272; Width: 540px; Height: 67px; Top: 1489px; Left: 690px; font-weight: 400px; font-size: 16px; line-height: 26px; text-align: center; font-style: normal;
+}
+iframe {
+    position: absolute; left: 405px; top: 1613px;
+}
+.footer {
+    position: absolute; background-color: #34547A; color: #ffffff; Width: 1920px; Height: 151px; Top: 2313px; Left: 0px; font-weight: 400px; 
+}
+h4 {
+    position: absolute; color:#FFFFFF; width: 130px; top: 50px; height: 19px; left: 406px;  font-size: 21px; font-style: normal; font-weight: 500px; line-height: 25px;
+}
+.footer_text_c {
+    position: absolute; color:#FFFFFF; width: 193px; top: 89px; height: 12px; left: 406px;  font-size: 13px; font-style: normal; font-weight: 400px; line-height: 21px;
+}
