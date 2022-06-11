@@ -34,6 +34,9 @@ background-color: #EEEFF1;
       h1 {
         position: absolute; color: #000000; Width: 541px; Height: 45px; Top: 257px; Left: 399px; font-size: 48px; line-height: 78px;
       }
+      .how_do {
+        background-color: #EEEFF1;
+      }
       .p_d_l
       {
         position: absolute; color: #727272; Width: 540px; Height: 67px; Top: 362px; Left: 400px; font-weight: 400; font-size: 16px; line-height: 26px;
